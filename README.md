@@ -3,7 +3,7 @@
 ## Instalacción
 
 1. Clonar el repositorio:<br>
-git clone https://github.com/FelixMerchan/api-dace.git
+git clone https://github.com/RichardSucuy/api-dace-main.git
 
 2. Instala las dependencias:<br>
 npm install
